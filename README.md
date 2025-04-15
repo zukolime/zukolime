@@ -1,16 +1,29 @@
-## Hi there 👋
 
-<!--
-**zukolime/zukolime** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hey there, wanderer!
+#### Alena | Junior Frontend Developer
 
-Here are some ideas to get you started:
+Driven by:  
+* Continuous learning  
+* Clear code reviews and advice from experienced colleagues 
+* Сhallenges
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 **My Current Toolkit**  
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,html,css,sass,bootstrap,figma,webpack,vite" />
+  </a>
+</p>
+
+**This stack keeps growing** — I'm like `Array.prototype.push()`, always adding something new.  
+
+---
+
+## 📫 **Let's Connect!**  
+[![Telegram](https://raw.githubusercontent.com/telegramdesktop/tdesktop/refs/heads/dev/Telegram/Resources/art/icon48.png)](https://t.me/zukolime)  [![Email](https://ssl.gstatic.com/images/branding/product/1x/gmail_2020q4_48dp.png)](mailto:zukolime.px@gmail.com)  
+
+---
+
+<p align="center">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExem0xdno5MXk5bXpnODVhYWZjZGtheDFnbmhxOXZ3MDVuN3MwZjZnYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hENDkVRxKsctCpuAun/giphy.gif" width="200" alt="Cat typing code">
+</p>
