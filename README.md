@@ -15,7 +15,7 @@ Driven by:
   </a>
 </p>
 
-**This stack keeps growing** — I'm like `Array.prototype.push()`, always adding something new.  
+**This stack keeps growing**
 
 ---
 
