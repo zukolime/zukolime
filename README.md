@@ -17,7 +17,7 @@ Driven by:
 
 ---
 
-## **Let's Connect!**  
+## **Contacts**  
 [![Telegram](https://raw.githubusercontent.com/telegramdesktop/tdesktop/refs/heads/dev/Telegram/Resources/art/icon48.png)](https://t.me/zukolime)  [![Email](https://ssl.gstatic.com/images/branding/product/1x/gmail_2020q4_48dp.png)](mailto:zukolime.px@gmail.com)  
 
 ---
