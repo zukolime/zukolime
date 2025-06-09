@@ -10,9 +10,4 @@ Driven by:
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,sass,bootstrap,figma,webpack,vite)](https://skillicons.dev)
 
----
 
-## **Contacts**  
-[![Telegram](https://raw.githubusercontent.com/telegramdesktop/tdesktop/refs/heads/dev/Telegram/Resources/art/icon48.png)](https://t.me/zukolime)
-
----
