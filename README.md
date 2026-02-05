@@ -8,7 +8,7 @@ Driven by:
 * Сhallenges
 
 ## **Explore my work** 
-**&rarr; [Portfolio](https://unknown-projectures.vercel.app/)**
+### &rarr; [Portfolio](https://unknown-projectures.vercel.app/)
 
 <div align="center">
   
