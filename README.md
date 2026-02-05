@@ -1,14 +1,14 @@
 # Hey there, wanderer! 
 
-#### Alena | Junior Frontend Developer
-
+**Alena | Junior Frontend Developer**
 
 Driven by:  
 * Continuous learning  
 * Clear code reviews and advice from experienced colleagues 
 * Сhallenges
-  
-**Explore my work** → [portfolio](https://unknown-projectures.vercel.app/)
+
+## **Explore my work** 
+**&rarr; [Portfolio](https://unknown-projectures.vercel.app/)**
 
 <div align="center">
   
