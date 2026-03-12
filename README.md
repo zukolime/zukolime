@@ -7,7 +7,7 @@ Driven by:
 * Clear code reviews and advice from experienced colleagues 
 * Сhallenges
 
-Explore my work &rarr; [Portfolio](https://unknown-projectures.vercel.app/)
+### Explore my work &rarr; [Portfolio](https://unknown-projectures.vercel.app/)
 
 <div align="center">
   
