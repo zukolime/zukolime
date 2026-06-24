@@ -1,6 +1,6 @@
 # Hey there, wanderer! 
 
-**Alena | Junior Frontend Developer**
+**Alena | Frontend Developer**
 
 Driven by:  
 * Continuous learning  
